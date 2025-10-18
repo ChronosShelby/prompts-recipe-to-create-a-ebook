@@ -39,9 +39,15 @@ ChatGPT：
 
 Gemini：
 
-|  Ação  | prompt                                                                                                                                                                       |
-| :----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style. Write on the image "O Código Desperta: A Força do Java", as if it were the cover of an ebook |
+| Ação  | prompt                                                                                                                                                                             |
+| :---: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cover | A jedi in meditation pose, with your blue lightsaber floating, pixel art style. Write on the image "O Código Desperta: A Força do Java", as if it were the cover of an ebook       |
+| jedi1 | um jedi com sabre de luz de lâmina dupla, baseado no filme star wars o despertar da força, estilo pixel art, retro sprites                                                         |
+| jedi2 | Mestre yoda, como sabre de luz, com uma das mãos levantada usando o poder da força, baseado no filme star wars, estilo pixel art, retro sprites.                                   |
+| jedi3 | Mestres jedais azuis após a morte, baseado no filme Star Wars, Mace WinduQui-Gon Jinn, Obi-Wan Kenobi, estilo pixel art, retro sprites                                             |
+| jedi4 | Personagem principal do game Star Wars Force Unleashed, Galen Marek, usando Vestes Jedi Cerimoniais, com sabre azul, ambientado no estilo do game, estilo pixel art, retro sprites |
+| jedi5 | Jedai luke skywallker meditando, ambientado no filme star wars, estilo pixel art, retro sprites                                                                                    |
+| jedi6 | Jedai baseado no game Star Wars Jedi Fallen Order meditando, ambientado no game, estilo pixel art, retro sprites                                                                   |
 
 ## ✨ Features
 
