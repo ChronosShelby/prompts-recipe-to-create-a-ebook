@@ -53,16 +53,17 @@ Gemini：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Gemini
+- PDF gerado via Gamma
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de geração e edição de Ebook como o Gamma.
 
-## 👨‍💻 Expert
+## 👨‍💻 Experts
 
-Desafio feito por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Desafio original feito por [Felipe Aguiar](https://github.com/felipeAguiarCode) e adpatado por [Igor Gabriel](https://github.com/ChronosShelby)
