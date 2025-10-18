@@ -11,7 +11,7 @@
 <p align="center">
 <img 
     src="./assets/cover.png"
-    width="400"  
+    width="250"  
 />
 </p>
 
@@ -20,13 +20,13 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ChronosShelby/prompts-recipe-to-create-a-ebook/blob/main/output/O%20C%C3%B3digo%20Desperta%20A%20For%C3%A7a%20do%20Java.pdf" Stitle="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
 - [Gemini](https://gemini.google.com/app)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Gamma](https://gamma.app/)
 
 ## 🧠 Prompts
 
